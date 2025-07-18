@@ -10,7 +10,7 @@ interface DownloadFlyerPageProps {
 }
 
 const DownloadFlyerPage: React.FC<DownloadFlyerPageProps> = ({ flyer, canvasSize, stageRef, onSuccess, onError }) => {
-  const [snackbar, setSnackbar] = useState<{ open: boolean; message: string; severity: 'success' | 'error' }>({ open: false, message: '', severity: 'success' });
+  const [snackbar, setSnackbar] = useState<{ open: boolean; message: string; severity: 'successs' | 'error' }>({ open: false, message: '', severity: 'success' });
   const hasDownloaded = useRef(false);
 
   useEffect(() => {
