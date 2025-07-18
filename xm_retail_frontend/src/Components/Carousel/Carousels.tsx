@@ -12,6 +12,7 @@ function Carousels() {
   const apiUrl = import.meta.env.VITE_APP_SERVER_BASE_URL;
 
   // Fetch images from the API
+
   useEffect(() => {
     const fetchImages = async () => {
       setIsLoading(true);
@@ -20,7 +21,11 @@ function Carousels() {
         console.log("API Response:", response.data); // Debugging
 
         // Ensure response.data is an array
+
         //Ensure images is always an array
+
+        //commented
+
         if (Array.isArray(response.data)) {
           setImages(response.data);
         } else if (response.data && Array.isArray(response.data.images)) {
@@ -211,4 +216,4 @@ const styles = `
   animation: fadeInUp 0.5s ease-out;
 }
 `;
-
+//last comment
