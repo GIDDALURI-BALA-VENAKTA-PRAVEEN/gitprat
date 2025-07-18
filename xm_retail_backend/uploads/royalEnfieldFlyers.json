@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Hunter 350",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/hunter/motorcycle-listing.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/hunter-350/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Classic 650",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/classic-650/motorcycles-700x550.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/classic-650",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Scram 440",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/scram-440/motorcycle-listing.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/scram-440/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Goan Classic 350",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/goan-classic-350/goan-classic-350-motorcycle-new.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/goan-classic-350",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Bear 650",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/bear-650/rena/bear-650-motorcycles.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/bear-650/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Classic 350",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/new-classic-350/classic-350-motorcycle-listing.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/classic-350/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Guerrilla 450",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/guerrilla-450/guerrilla_450_motorcycle.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/guerrilla-450/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Shotgun 650",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/shotgun-650/landing/shotgun-650-motorcycle-listing.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/shotgun-650/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Himalayan 450",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/himalayan/new-himalayan-motorcycle-listing.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/new-himalayan/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Bullet 350",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/bullet/bullet-350-motorcycle-listing.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/bullet-350/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Super Meteor 650",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/landing/motorcycle_landing.png",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/super-meteor-650/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Meteor 350",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/meteor-350/new/meteor-350-listing.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/meteor/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Interceptor 650",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/landing/interceptor-650-thumbnail.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/interceptor/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  },
+  {
+    "name": "Continental GT 650",
+    "img": "https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/landing/continental-gt-650-thumbnail.jpg",
+    "exploreLink": "https://www.royalenfield.com/in/en/motorcycles/continental-gt/",
+    "bookTestRideLink": "https://www.royalenfield.com/in/en/forms/book-a-test-ride/"
+  }
+]
