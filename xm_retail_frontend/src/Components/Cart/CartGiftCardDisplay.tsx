@@ -6,7 +6,10 @@ interface CartGiftCardDisplayProps {
   orderDataList: OrderCard[];
   onClose: () => void;
 }
-
+// This component displays gift card details in a modal-like format
+// It uses framer-motion for animations and Tailwind CSS for styling
+// The component receives order data and a close function as props
+// It renders a table with gift card details and a close button
 const CartGiftCardDisplay: React.FC<CartGiftCardDisplayProps> = ({ orderDataList, onClose }) => {
   return (
     <motion.div
