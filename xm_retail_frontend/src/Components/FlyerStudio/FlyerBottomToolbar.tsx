@@ -45,20 +45,7 @@ const FlyerBottomToolbar: React.FC<FlyerBottomToolbarProps> = ({
       border: '1px solid #eee',
       borderRadius: 3,
       px: 2,
-      py: 1,
-      minWidth: 420,
-      maxWidth: '90vw',
-      display: 'flex',
-      alignItems: 'center',
-      gap: 1.5,
-    }}>
-      {/* Size select */}
-      <Typography variant="body2" sx={{ fontWeight: 500, color: '#555' }}>Size:</Typography>
-      <Select
-        size="small"
-        value={canvasPreset}
-        onChange={e => {
-          setCanvasPreset(e.target.value);
+      py: 1,t(e.target.value);
           const preset = CANVAS_PRESETS.find(p => p.label === e.target.value);
           if (preset && preset.label !== 'Custom') {
             onSizeChange(preset.width, preset.height);
