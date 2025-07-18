@@ -8,6 +8,7 @@ const EntryCard: React.FC = () => {
   const handleClick = (path: string) => {
     navigate(path);
   };
+  // Define the cards with their properties
 
   const cards = [
     {

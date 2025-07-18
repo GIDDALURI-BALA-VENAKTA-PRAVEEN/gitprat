@@ -11,6 +11,7 @@ const AdminLogin = () => {
   const handleSubmit = async (e: { preventDefault: () => void; }) => {
     e.preventDefault();
     setError("");
+    // Reset error message on new submission
 
     try {
       const response = await fetch(`${apiUrl}/api/admin/login`, {

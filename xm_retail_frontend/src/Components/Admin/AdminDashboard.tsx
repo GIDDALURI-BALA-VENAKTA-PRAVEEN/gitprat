@@ -11,6 +11,7 @@ export default function AdminDashboard() {
   useEffect(() => {
     fetchImages();
   }, []);
+  // Fetch initial images from the server
 
   const fetchImages = async () => {
     try {
