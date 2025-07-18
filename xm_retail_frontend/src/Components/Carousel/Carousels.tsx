@@ -20,6 +20,7 @@ function Carousels() {
         console.log("API Response:", response.data); // Debugging
 
         // Ensure response.data is an array
+        //Ensure images is always an array
         if (Array.isArray(response.data)) {
           setImages(response.data);
         } else if (response.data && Array.isArray(response.data.images)) {
@@ -27,6 +28,7 @@ function Carousels() {
         } else {
           console.error("Unexpected response format:", response.data);
           setImages([]); // Fallback to an empty array
+          // Handle unexpected response format
         }
       } catch (error) {
         console.error("Error fetching images:", error);
