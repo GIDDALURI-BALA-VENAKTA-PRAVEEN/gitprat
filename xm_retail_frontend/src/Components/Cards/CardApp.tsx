@@ -14,6 +14,7 @@ interface CardType {
 interface CardAppProps {
   selectedCategory: string;
 }
+// Define the props for CardApp component
 
 const CardApp: React.FC<CardAppProps> = ({ selectedCategory }) => {
   const [cards, setCards] = useState<CardType[]>([]);
