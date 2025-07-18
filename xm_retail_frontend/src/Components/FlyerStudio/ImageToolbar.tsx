@@ -8,7 +8,7 @@ import Layers from '@mui/icons-material/Layers';
 import Lock from '@mui/icons-material/Lock';
 import LockOpen from '@mui/icons-material/LockOpen';
 import Restore from '@mui/icons-material/Restore';
-
+//sushma
 interface ImageToolbarProps {
   isLocked: boolean;
   onCrop: () => void;
@@ -103,7 +103,7 @@ const ImageToolbar: React.FC<ImageToolbarProps> = ({
         <IconButton
           onClick={() => handleClick('bringForward', onBringForward)}
           color={active === 'bringForward' ? 'primary' : 'default'}
-          sx={active === 'bringForward' ? { backgroundColor: '#e3f2fd', color: '#1976d2' } : {}}
+          sx={active === 'bringForward' ? { backgroundColor: '', color: '#1976d2' } : {}}
         >
           <Layers />
         </IconButton>
