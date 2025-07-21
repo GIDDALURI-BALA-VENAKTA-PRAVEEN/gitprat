@@ -12,7 +12,7 @@ export default function AdminDashboard() {
     fetchImages();
   }, []);
   // Fetch initial images from the server
-
+//hello
   const fetchImages = async () => {
     try {
       const response = await axios.get(`${SERVER_URL}/api/images`);
